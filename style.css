@@ -1,0 +1,33 @@
+.body_backgorund {
+    background-image: url("colorful-abstract-waves-4k-creative-artwork-colorful-wavy-background.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color: rgb(59, 0, 0); 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: rgb(236, 236, 236); 
+      border-style:ridge;
+  }
+
+  button {
+    background-color: #ff009d;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 10px 42px;
+    font-size: 16px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  
